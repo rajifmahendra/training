@@ -5,3 +5,5 @@ if ("branch is AP-1" == true) {
 } else {
     print("this is not AP-1")
 }
+
+a = 1
