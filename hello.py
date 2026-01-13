@@ -7,3 +7,4 @@ if ("branch is AP-1" == true) {
 }
 
 a = 1
+b = 2
